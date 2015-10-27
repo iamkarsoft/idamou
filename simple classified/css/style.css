@@ -1,0 +1,107 @@
+/*imported forms*/
+@font-face{
+font-family:'Ubuntu-M';
+src:url('../fonts/Ubuntu-M.ttf');
+}
+
+@font-face{
+font-family:'MYRIADPRO-BOLD';
+src:url('../fonts/MYRIADPRO-BOLD.OTF');
+}
+
+
+@font-face{
+font-family:'Ubuntu-MI';
+src:url('../fonts/Ubuntu-MI.ttf');
+}
+
+@font-face{
+font-family:'Ubuntu-MI';
+src:url('../fonts/Ubuntu-MI.ttf');
+}
+
+@font-face{
+font-family:'Cubano-regular-webfont';
+src:url('../fonts/Cubano-regular-webfont.ttf');
+}
+
+
+@font-face{
+font-family:'Cubano-regular-webfont';
+src:url('../fonts/Cubano-regular-webfont.svg');
+}
+
+@font-face{
+font-family:'Cubano-regular-webfont';
+src:url('../fonts/Cubano-regular-webfont.eot');
+}
+
+
+@font-face{
+font-family:'Roboto-Light';
+src:url('../fonts/Roboto-Light.ttf');
+}
+
+@font-face{
+font-family:'Roboto-Medium';
+src:url('../fonts/Roboto-Medium.ttf');
+}
+
+
+@font-face{
+font-family:'RobotoCondensed-Light';
+src:url('../fonts/RobotoCondensed-Light.ttf');
+}
+
+
+
+
+.login-form, .register-form,.user-form, .my-forms{
+	background: #fff;
+	padding: 4%;
+}
+
+.form-icon{
+	margin-top: 5%;
+	margin-bottom: 1%;
+
+}
+
+body{
+	background: #e9e9e9;
+	font-family:'RobotoCondensed-Light',open sans, cursive, helvetica;
+	font-size: large;
+
+}
+
+li{
+	list-style: none;
+}
+.form-icon{
+
+
+}
+
+.navbar{
+		
+		background:#2c3e50;
+	font-family: 'Cubano-regular-webfont',open sans, cursive, helvetica;;
+}
+
+.navbar a:hover{
+	background: #e9e9e9;
+	color: #000;
+	font-size: normal;
+}
+
+
+
+.icon-bar{
+	background: #e9e9e9;
+}
+
+.page-header{
+	color:  #e67c22;
+	font-family: 'Roboto-Medium',open sans, cursive, helvetica;
+	border-bottom: 3px solid #2c3e50;
+}
